@@ -17,6 +17,6 @@ while tentative < Max_tentative:
     else:
         print("Monsieur ou Medame Merci! vous avez trouvez le le nombre")
         break
-        print("Game Over!")
+        
         print(f"Le nombre est était{nombresecret}")
         # ceci est la fin du cboucle while
