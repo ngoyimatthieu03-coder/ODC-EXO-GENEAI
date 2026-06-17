@@ -7,7 +7,7 @@ print("devine le nombre entre 1 et 100 ")
 
  #ceci est une boucle
 while tentative < Max_tentative:
-    n=int(input("Entrez votre proposition:"))
+    n=int(input("Monsieur ou medame Entrez votre proposition:"))
     tentative +=1
     if n < nombresecret:
         print ("Le nombre est trop petit")
