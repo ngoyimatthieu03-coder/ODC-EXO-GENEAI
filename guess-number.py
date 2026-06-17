@@ -5,7 +5,7 @@ Max_tentative=5
 print("Guest the Number")
 print("devine le nombre entre 1 et 100 ")
 
- #ceci est une boucle
+ #ceci est une boucle et son debut
 while tentative < Max_tentative:
     n=int(input("Monsieur - medame Entrez votre proposition:"))
     tentative +=1
