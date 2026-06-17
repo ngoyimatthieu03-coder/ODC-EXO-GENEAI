@@ -13,7 +13,7 @@ while tentative < Max_tentative:
         print ("Le nombre est trop petit")
         # Je fait des commit
     elif n > nombresecret:
-        print("Le nombre est trop grang")
+        print("Le nombre est trop grang est")
     else:
         print("Monsieur ou Medame Merci! vous avez trouvez le le nombre")
         break
