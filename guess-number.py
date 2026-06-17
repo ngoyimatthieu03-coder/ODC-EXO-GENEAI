@@ -15,7 +15,7 @@ while tentative < Max_tentative:
     elif n > nombresecret:
         print("Le nombre est trop grang")
     else:
-        print("Merci! vous avez trouvez le le nombre")
+        print("Monsieur ou Medame Merci! vous avez trouvez le le nombre")
         break
         print("Game Over!")
         print(f"Le nombre est était{nombresecret}")
