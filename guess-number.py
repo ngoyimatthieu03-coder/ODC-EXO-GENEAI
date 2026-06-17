@@ -19,4 +19,5 @@ while tentative < Max_tentative:
         break
         print("Game Over!")
         print(f"Le nombre est était{nombresecret}")
+        # merci pour le code 
         
